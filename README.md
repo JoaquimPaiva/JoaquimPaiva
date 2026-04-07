@@ -52,7 +52,7 @@ Sou um developer e designer focado em criar produtos digitais modernos, intuitiv
   
   ### 🗄️ Databases
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,supabase,firebase" />
   </div>
   
   ### ☁️ DevOps & Cloud
@@ -83,6 +83,7 @@ Sou um developer e designer focado em criar produtos digitais modernos, intuitiv
 - Design Systems
 - Backend Development
 - DevOps & Workflow Optimization
+- mobile apps ios/android
 
 ---
 
@@ -100,3 +101,7 @@ Sou um developer e designer focado em criar produtos digitais modernos, intuitiv
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
 </div>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/joaquimapaiva"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joaquimapaiva" /></a></p><br><br>
+
