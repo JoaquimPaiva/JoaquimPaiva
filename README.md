@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=200&section=header&text=Joaquim%20Paiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# Joaquim Paiva
-
-### Senior Web Designer & Developer
+### Web Designer & Developer
 
 <p>
 Construo experiências digitais modernas com foco em performance, design e detalhe.
