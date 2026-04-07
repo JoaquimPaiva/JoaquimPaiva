@@ -83,7 +83,7 @@ Sou um developer e designer focado em criar produtos digitais modernos, intuitiv
 - Design Systems
 - Backend Development
 - DevOps & Workflow Optimization
-- mobile apps ios/android
+- Mobile apps ios/android
 
 ---
 
