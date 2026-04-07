@@ -34,35 +34,37 @@ Sou um developer e designer focado em criar produtos digitais modernos, intuitiv
 
 ## ⚡ Tech Stack
 
-### 🎨 Frontend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,vite,webpack" />
-</div>
+  
+  ### 🎨 Frontend
+  <div align="left" max-width="50%" >
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,vite" />
+  </div>
+  
+  ### 🧩 UI/UX & Design
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  </div>
+  
+  ### ⚙️ Backend
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,express,fastapi" />
+  </div>
+  
+  ### 🗄️ Databases
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+  </div>
+  
+  ### ☁️ DevOps & Cloud
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes" />
+  </div>
+  
+  ### 🛠️ Tools & Workflow
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,jest,cypress,postman" />
+  </div>
 
-### 🧩 UI/UX & Design
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-</div>
-
-### ⚙️ Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,laravel,express,fastapi" />
-</div>
-
-### 🗄️ Databases
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
-</div>
-
-### ☁️ DevOps & Cloud
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,kubernetes" />
-</div>
-
-### 🛠️ Tools & Workflow
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,eslint,prettier,jest,cypress,postman" />
-</div>
 
 ---
 
